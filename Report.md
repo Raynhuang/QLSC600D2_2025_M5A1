@@ -107,3 +107,22 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - The microscope used for SIM imaging is commercial - more accessible than custom built
 - Single molecule localizations performed with custom software
 - As previously stated, links are provided for open access code and software that were used for analysis.
+
+## Computer Vision
+## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex
+
+### Data availability and accesibility
+Data appears to be available and accessible. However, it is stated that all data reported in the paper can only be accessed upon request to the lead contact, who is the principal investigator of the lab which produced the article. Although lead contact information is provided, the response and delivery time will most likely vary and is dependent solely on the lead contact. Perhaps creating a webpage with downloadable links would resolve this concern by eliminating the need to first reach out to the lead contact.
+
+### Quality of experimental design
+Overall, the quality of the experimental design is simple yet complex. Given that the goal was to resolve astrocytic architecture, the authors wisely used imaging techiniques that yielded the highest resolution possible, focused ion beam scanning electron microscopy. With this approach and manual segmentation labour, the researchers were able to yield a detailed 3D reconstruction of astrocytes. In addition, the researchers reported ample quality control of the manual segmentation. The researchers were aware about the issues that may arise due to the nature of hand segmentation and made efforts to minimize error. In order to analyze the segmentation data, 
+
+
+### Description of methods
+The methodology section of this article was certainly extensive and clearly organized. The authors subdivided this section logically into partitions such as tissue preparation for light microscopy, focused ion beam scanning electron microscopy, and 3D reconstruction. Quantification and statistical analysis was its own section that immediately followed. In total, there were 13 methodology subcategories with not a single detail appearing to be missed. The amount of information covered, although vast, was made digestible by the subsectioning and the chronological ordering.  
+
+### Description of sample population/data under study	
+The data analyzed was gathered from mice brain tissue and the researchers provided a sufficient amount detail about the organism strains. In addition to strain information, the authors also included a great amount of detail regarding the tissue collection procedure from the purchasing of the mice to the brain removal surgery.
+
+### Tool accessibility
+All resources and tools are accessible. This is shown through the article's clear and extensive key resources table which included information regarding all resource categories such as chemicals, organisms, and software. The table was well organized such that for each resource, there included its name, source company, and identification code. Having data information presented in the elegant table manner makes it easy for readers to obtain the exact same resources if needed. One concern is the sheer man power and time needed to perform this experiment specifically for the segmentation stage. 

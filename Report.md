@@ -144,3 +144,32 @@ In the article, no information is directly given about the mice strain. Mice inf
 
 ### Tool accessibility
 Light microscopy equipment is usually easily accessible. However, the microwave fixation system is most likely a limiting factor. The present paper and other papers who used the system all did so in Tokyo, Japan at a specific company. In addition, purchasing information is not readily available on the company's website.
+
+
+## Computational Neuroscience
+## Paper 1 (RFJ): Go with the FLOW: visualizing spatiotemporal dynamics in optical widefield calcium imaging (2021)
+
+### Data availability and accesibility
+All data and code presented in this paper are publicly available (open access). You can access the data and code repository at the following link: https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523#d1e2672. The repository includes both the code used in the experiments and the associated data, encompassing both raw and processed datasets, all openly accessible.  Additionally, supplementary videos have been provided for result comparisons mentioned in the paper. Some of the data sources are referenced in another paper co-authored by one of the contributors to this study.
+
+### Quality of experimental design
+This paper relies on algorithmic outputs applied to available data for its results. The chosen sample size appears reasonable for conducting a statistical analysis; however, concerns arise regarding the statistical methods employed. Specifically, a pairwise t-test was conducted on the distribution of ridges derived from their code, yet the rationale for choosing this test method remains unclear. Notably, the t-test typically assumes normal distribution of data, a point unaddressed in their explanation.
+
+Furthermore, the reported small p-value, emphasized as validating the assertion of changes in brain dynamics for older mouse pups, raises skepticism. It is unclear whether the small p-value results from the inherent minuteness of the effect or if it genuinely reflects statistical significance. Compounding this, the authors lack a substantial dataset for comparison, as evidenced by their use of mean values to calculate a p-value on the order of 10^(-4). These factors contribute to ongoing reservations about the robustness and generalizability of the statistical findings. 
+
+### Description of methods
+
+This paper primarily delves into the implementation of a specific algorithm applied to mouse brain datasets, with a notable emphasis on elucidating the underlying principles and mathematical theory governing the code's functionality. However, the conceptual explanation assumes a degree of familiarity with fluid dynamics, making it somewhat challenging for those without intensive training in the field.
+
+Regarding the dataset, the authors provide references for additional insights into the mouse population details. The methods for the surgical procedures during widefield imaging are meticulously outlined, along with specific information on the employed calcium indicators. Despite these clarifications, certain steps, particularly those related to the type of brain activity analyzed in the mouse pup dataset, remain ambiguous. Additionally, the absence of a paper explicating the data gathering process for the mouse pup dataset raises questions.
+
+Further, the rationale behind comparing specific age groups of mouse pups is not explicitly stated, leaving the reader with uncertainties about the significance of the chosen comparisons. Clarifying these aspects would enhance the overall comprehensibility and transparency of the study.
+
+
+### Description of sample population/data under study
+
+Two distinct categories of mice were involved in the analysis of their brain activity. The first group comprised mouse pups, with ages specified to be a maximum of 8 days postnatal, providing a comprehensive description of the age range for this subset. In contrast, the adult mouse dataset delineated both the age (approximately 30 weeks) and gender (male) in explicit detail within the paper.
+
+### Tool accessibility
+The code is released under the permissive license, granting users the freedom to use, modify, distribute, and sublicense with minimal restrictions. The code was sufficiently documented and seemed to be directly usable. Papers were also cited in order to understand further the underlying theory behind the algorithm constructed. 
+

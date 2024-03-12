@@ -109,7 +109,7 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - As previously stated, links are provided for open access code and software that were used for analysis.
 
 ## Computer Vision
-## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex
+## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex (2023)
 
 ### Data availability and accesibility
 Data appears to be available and accessible. However, it is stated that all data reported in the paper can only be accessed upon request to the lead contact, who is the principal investigator of the lab which produced the article. Although lead contact information is provided, the response and delivery time will most likely vary and is dependent solely on the lead contact. Perhaps creating a webpage with downloadable links would resolve this concern by eliminating the need to first reach out to the lead contact.
@@ -127,7 +127,7 @@ The data analyzed was gathered from mice brain tissue and the researchers provid
 All resources and tools are accessible. This is shown through the article's clear and extensive key resources table which included information regarding all resource categories such as chemicals, organisms, and software. The table was well organized such that for each resource, there included its name, source company, and identification code. Having data information presented in the elegant table manner makes it easy for readers to obtain the exact same resources if needed. All code used in the article is neatly organized on a GitHub repository with clear instructions and sample data to operate on. One concern is the sheer man power and time needed to perform this experiment specifically for the segmentation stage. 
 
 ## Neuroscience
-## Paper 12: Glycogen distribution in mouse hippocampus
+## Paper 12: Glycogen distribution in mouse hippocampus (2019)
 
 ### Data availability and accesibility
 There appears to be zero effort made by the authors to make the data included in this article available or accessible.

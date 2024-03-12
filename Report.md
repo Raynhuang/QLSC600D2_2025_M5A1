@@ -125,3 +125,22 @@ The data analyzed was gathered from mice brain tissue and the researchers provid
 
 ### Tool accessibility
 All resources and tools are accessible. This is shown through the article's clear and extensive key resources table which included information regarding all resource categories such as chemicals, organisms, and software. The table was well organized such that for each resource, there included its name, source company, and identification code. Having data information presented in the elegant table manner makes it easy for readers to obtain the exact same resources if needed. All code used in the article is neatly organized on a GitHub repository with clear instructions and sample data to operate on. One concern is the sheer man power and time needed to perform this experiment specifically for the segmentation stage. 
+
+## Neuroscience
+## Paper 12: Glycogen distribution in mouse hippocampus
+
+### Data availability and accesibility
+There appears to be zero effort make by the authors to make the data included in this article available or accessible.
+
+### Quality of experimental design
+The researchers make the point that their glycogen analysis methodology is an improvement on those that have been used in past studies. In previous studies, researchers have used periodic acid-Schiff staining method to visualize glycogen levels. This method is not glycogen specific but rather stains for glycoproteins and proteoglycans. Another downfall of past studies that during the collection of brain tissue, glycogen is depleted during one of the necessary steps for immunohistochemistry and consequently invalidates the evaluation of glycogen concentration and distribution. To combat these known flaws of glycogen analysis, the researchers made the careful decision to use an antibody that is specific to glycogen and use a technique called focused microwave irradiation which preserves the state of glycogen at the time of collection by inactivating enzymatic activites. To provide evidence of how the methodology of the current paper is superior to past studies, the authors included figures clearly demonstrating the glycogen specificity of the antibodies and the glycogen preservation of the microwave fixation procedure.
+In terms of investigating the immunohistochemistry results, all observations were qualitative and lack statistical analysis. Observed patterns such as certain hippocampal layers being more rich in glycogen are accompanied by unanswered questions such as how were layer boundaries defined? How were glycogen concentration levels determined? Perhaps the role of this paper was to provide solely qualitative observations. However, I believe that basic explanations as to how these qualitative observations were made should be included.
+
+### Description of methods
+Overall, the methodology of this paper is weak. In fact, there is no section dedicated to the methods. Details are dispersed and intertwined with background information. This poor organization provides the reader with the inconvenient task to parse through the entire paper to filter for methodology components. Before discussing the methodology for the first time, the authors state that they will summarize the histological procedure. This statement seems to assert that the researchers are fully aware about how much detail is omitted in this article. The researchers provide rudimentary information regarding the collection and preparation of the brain tissue for light microscopy such as how the brain tissue was removed and fixed, which antibodies were used, and what they stain for. The authors ask the reader to refer to another paper for all immunohistological procedure details. In terms of their qualitative observations, no details as to how they came to these conclusions are listed. All statements about glycogen distribution appear to be made by visual judgement. 
+
+### Description of sample population/data under study	
+In the article, no information is directly given about the mice strain. Mice information can be found in a separate paper the authors reference. It would have been helpful to include basic information about the organism and its tissue in the present article.
+
+### Tool accessibility
+Light microscopy equipment is usually easily accessible. However, the microwave fixation system is most likely a limiting factor. The present paper and other papers who used the system all did so in Tokyo, Japan at a specific company. In addition, purchasing information is not readily available on the company's website.
